@@ -30,7 +30,7 @@ pipx ensurepath
 
 ## Usage
 
-After installation, launch Dustman directly from your terminal:
+After installation, launch Dustman from your terminal:
 
 ```bash
 dustman
