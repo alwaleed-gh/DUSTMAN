@@ -8,5 +8,6 @@ Dustman is a Command Line Interface bulding using Python designed to scan and ch
 ## Key Features
 
 - **Easy to use**: Simple CLI menu to scan and check temporary files.
-- **Fast cleanup**: Deletes temporary files quickly 
+- **Fast cleanup**: Deletes temporary files quicklyز
 - **Safe scanning**: Checks files before removing them to keep the system safe.
+- **Linux Support**: Runs smoothly on Linux systems.
