@@ -14,15 +14,17 @@ Dustman is a Command Line Interface bulding using Python designed to scan and ch
 - **Linux Support**: Runs smoothly on Linux systems.
 
 
-
 ## Installation
 
 Install Dustman directly from GitHub via `pipx` (recommended):
 
-```bash
-  pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git 
+pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git
 
-if you dont have pipx
+If you don't have `pipx` installed, install it first:
 
 sudo apt install pipx
 pipx ensurepath
+
+After running `pipx ensurepath`, restart your terminal or run:
+
+source ~/.bashrc
