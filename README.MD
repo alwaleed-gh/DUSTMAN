@@ -35,3 +35,7 @@ After installation, launch Dustman from your terminal:
 ```bash
 dustman
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
