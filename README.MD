@@ -18,4 +18,6 @@ Dustman is a Command Line Interface bulding using Python designed to scan and ch
 Install Dustman directly from GitHub via `pipx`:
 
 ```bash
-pipx install git+[https://github.com/alwaleed-gh/DUSTMAN.git](https://github.com/alwaleed-gh/DUSTMAN.git)
+pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git
+```
+kdcmdm
