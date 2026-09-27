@@ -5,6 +5,7 @@ Dustman is a Command Line Interface bulding using Python designed to scan and ch
 ![Dustman Demo](./demo.gif)
 
 
+
 ## Key Features
 
 - **Easy to use**: Simple CLI menu to scan and check temporary files.
@@ -12,9 +13,20 @@ Dustman is a Command Line Interface bulding using Python designed to scan and ch
 - **Safe scanning**: Checks files before removing them to keep the system safe.
 - **Linux Support**: Runs smoothly on Linux systems.
 
+
+
 ## Installation
 
 Install Dustman directly from GitHub via `pipx` (recommended):
 
 ```bash
   pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git 
+
+
+
+## Usage
+
+After installation, launch Dustman directly from your terminal:
+
+```bash
+dustman
