@@ -21,6 +21,7 @@ Install Dustman directly from GitHub via `pipx` (recommended):
 
 ```bash
   pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git 
+```` ``` ````
 
 
 
