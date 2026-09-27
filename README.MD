@@ -26,3 +26,12 @@ If you don't have pipx installed, install it first:
 sudo apt install pipx
 pipx ensurepath
 ```
+
+
+## Usage
+
+After installation, launch Dustman directly from your terminal:
+
+```bash
+dustman
+```
