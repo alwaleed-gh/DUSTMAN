@@ -21,13 +21,8 @@ Install Dustman directly from GitHub via `pipx` (recommended):
 
 ```bash
   pipx install git+https://github.com/alwaleed-gh/DUSTMAN.git 
-```` ``` ````
 
+if you dont have pipx
 
-
-## Usage
-
-After installation, launch Dustman directly from your terminal:
-
-```bash
-dustman
+sudo apt install pipx
+pipx ensurepath
